@@ -12,17 +12,16 @@ In this introductory session, students will become acquainted with the versatile
 
 ### Prerequisites
 
-Participants should have basic knowledge of Python.
-Recommended experience includes primitive data types, conditionals, iteration, lists,tuples, dictionaries and sets.
+No experience with Python is expected.
 
-Helpful but not required experience: Jupyter Notebooks including Google Colab.
+Helpful but not required experience: 
+* Jupyter Notebooks including Google Colab
+* Experience with any other programming language
 
 ## Hardware/Software requirements in the order of preference
 
-1. Easiest - Any computer with modern browser and ability to connect to Google Colab (requires google account - gmail)
-2. **Visual Studio Code with Python extension, Python itself and installed git** - Preferred but not required(used by Instructor)
-3. PyCharm (includes Python and git support)
-4. Your own custom Jupyter Notebooks setup with Python
+1. Easiest - Any computer with modern browser and ability to connect to Google Colab (requires google account - Gmail) - No local installation necessary
+2. Locally installed Python Jupyter Notebooks - preferably use the Anaconda Python installation
 
 ## Test minimal prerequisites
 
