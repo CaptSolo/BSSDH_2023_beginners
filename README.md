@@ -18,14 +18,14 @@ Helpful but not required experience:
 * Jupyter Notebooks including Google Colab
 * Experience with any other programming language
 
-## Hardware/Software requirements in the order of preference
+### Hardware/Software requirements in the order of preference
 
-1. Easiest - Any computer with modern browser and ability to connect to Google Colab (requires google account - Gmail) - No local installation necessary
-2. Locally installed Python Jupyter Notebooks - preferably use the Anaconda Python installation
+1. Easiest - Any computer with modern browser and ability to connect to Google Colab (requires Google account - Gmail) - No local installation necessary
+2. Locally installed Python Jupyter Notebooks - preferably use the [Anaconda Python installation](https://www.anaconda.com/download)
 
-## Test minimal prerequisites
+#### Test software requirements
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2023_workshop/blob/main/notebooks/test_python_setup.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CaptSolo/BSSDH_2023_beginners/blob/main/notebooks/test_python_setup.ipynb)
 
 If you can run the above Notebook in enviroment of your choice (Google Colab, or locally) with no errors - you are ready for the workshop!
 
