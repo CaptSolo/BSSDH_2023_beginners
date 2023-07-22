@@ -1,2 +1,2 @@
-Corpora for our workshop
-Estonian, Latvian, Ukrainian
+Corpora for our workshop:
+English, Estonian, Latvian, Ukrainian
