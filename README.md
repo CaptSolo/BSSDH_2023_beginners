@@ -2,7 +2,10 @@
 
 Program - http://www.digitalhumanities.lv/bssdh/2023/Programme/
 
-*This information will be updated in the days leading up to the workshop.*
+*Note: Materials for the 2024 version of the workshop can be found at:*
+- https://github.com/CaptSolo/BSSDH_2024_beginners/
+
+---
 
 ## Prerequisites
 
